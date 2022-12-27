@@ -1,3 +1,9 @@
+#!/usr/bin/env python
+
+"""ExcelToPy.py: Migrate an excel to a simplified one."""
+
+__author__      = "Sudhamayee Pradhan"
+
 import pandas as pd
 import numpy as np
 pd.options.mode.chained_assignment = None  # default='warn'
